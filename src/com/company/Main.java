@@ -14,4 +14,8 @@ public class Main {
 	    public static void hello(){
 	    System.out.println("hello world");
 	    }
+
+        public  static  void goodby(){
+            System.out.println("good by");
+        }
 }
