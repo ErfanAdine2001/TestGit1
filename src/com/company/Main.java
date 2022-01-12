@@ -10,5 +10,7 @@ public class Main {
 	    public static void hello(){
 	    System.out.println("hello world");
 	    } 
+	    
+	    //this is a test application
     }
 }
