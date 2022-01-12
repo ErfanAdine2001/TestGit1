@@ -9,6 +9,7 @@ public class Main {
 
 
 	    //this is a test application
+        hello();
         System.out.println();
     }
 	    public static void hello(){
